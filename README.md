@@ -7,7 +7,8 @@
     <span style="font-weight: 300; color: black;">Chung-Ang University,</span><br>
     <span style="color: gray; font-size: 0.85em;">Korea, 2022. 03~</span>
 </h4>
-
+<br>
+<br>
 <div align="center">
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
