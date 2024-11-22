@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=SE0RYE0NG&reversal=false&fontColor=000000&fontSize=65&desc=반가워요😼&descAlignY=59&descSize=18&descAlign=66&fontAlignY=43)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=SE0RYE0NG&reversal=false&fontColor=000000&fontSize=65&desc=반가워요😼&descAlignY=59&descSize=18&descAlign=66&fontAlignY=43)
 
 
 **se0rye0ng/se0rye0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
