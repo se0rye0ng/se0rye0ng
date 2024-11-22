@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=E3A6AE&text=I'M%20SEORYEONG!&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
-<h4 align="center">🔍</h4>
+<h4 align="center">🌱</h4>
 <h4 align="center" style="font-size: 1.5em;">Major</h4>
 <p align="center">  
-    <span><b>2022. 03 ~</b></span><br>
+    <span>2022. 03 ~</span><br>
     <span>Plant Science and Technology</span><br>
     <span>Chung-Ang University, Korea</span>
 </p>
