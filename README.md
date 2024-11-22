@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=E3A6AE&text=I'M%20SEORYEONG!&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
 <h3 align="center">Preparing to become a Media Engineer</h3>
-
+<br>
 <h4 align="center">🌱</h4>
-<h4 align="center" style="font-size: 1.5em;">Me</h4>
+<h4 align="center" style="font-size: 1.5em;">About Me</h4>
 <p align="center">
     <b>
     <span>Major of Plant Science and Technology, CAU</span><br>
@@ -27,9 +27,9 @@
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
+    <b><span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span></b><br>
     <b><span>Web Page Development</b><br>
     <b><span>2024.06.01 ~ 2024. 06.03</b><br>
-    <b><span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span></b><br>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
