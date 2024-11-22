@@ -24,7 +24,7 @@
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
     <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span>
-    <span>For Frontend Engineer</span><br>
+    <b><span>For Frontend Engineer</span></b><br>
 </p>
 <br>
 
@@ -41,8 +41,8 @@
 <h4 align="center" style="font-size: 1.5em;">Contact</h4>
 <p align="center">
   <a href="https://www.instagram.com/se0rye0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-    <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a>
-    <b><span>Feel free to collaborate with me!</span></b><br>
+    <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
+    <b><span>Always open for Cooperation!</span></b><
 </p>
 <br>
 <p align="center">
