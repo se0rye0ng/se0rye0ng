@@ -26,6 +26,8 @@
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
+    <b><span>Web page development</b><br>
+    <b><span>2024.06.01 ~ 2024. 06.03</b><br>
     <b><span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span></b><br>
     <b><span>For Frontend Engineer</span></b><br>
 </p>
