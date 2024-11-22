@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=E3A6AE&text=I'M%20SEORYEONG!&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
 
-**se0rye0ng/se0rye0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h4 align="center">👩‍💻 About Me 👩‍💻</h4>
 <h4 align="center">
     <span style="font-weight: bold; color: black;">Plant Science and Technology,</span>
