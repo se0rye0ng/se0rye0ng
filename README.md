@@ -3,12 +3,12 @@
 
 <h4 align="center">👩‍💻 About Me 👩‍💻</h4>
 <h4 align="center">
-    <span style="font-weight: bold; color: black;">Plant Science and Technology,</span>
-    <span style="font-weight: 300; color: black;"> Chung-Ang University,</span>
-    <span style="color: gray; font-size: 0.85em;"> Korea, 2022. 03~</span>
+    <span style="font-weight: bold; color: black;">Plant Science and Technology,</span><br>
+    <span style="font-weight: 300; color: black;">Chung-Ang University,</span><br>
+    <span style="color: gray; font-size: 0.85em;">Korea, 2022. 03~</span>
 </h4>
+
 <div align="center">
-<h3 align="center"></h3>
 <h3 align="center">👩‍💻</h3>
 <h4 align="center">Github Stats</h4>
 <div align="center">
