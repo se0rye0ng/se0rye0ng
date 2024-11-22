@@ -9,7 +9,8 @@
 </h4>
 <div align="center">
 
-<h3 align="center">👩‍💻</h3>
+
+<h2 align="center">👩‍💻</h2>
 <h4 align="center">Github Stats</h4>
 <div align="center">
 
