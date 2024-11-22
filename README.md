@@ -4,8 +4,9 @@
 <h4 align="center" style="font-size: 1.5em;">Me</h4>
 <p align="center">
     <b>
-    <span>Major of Plant Science and Technology</span><br>
-    <span>Deputy head of Technology Department, UBS</span>
+    <span>Major of Plant Science and Technology, CAU</span><br>
+    <span>Deputy head of Technology Department, UBS</span><br>
+    <span>Preparing to become a Media Engineer</span>
     </b>
 </p>
 <br>
@@ -13,6 +14,8 @@
 <h4 align="center" style="font-size: 1.5em;">Tech Stack</h4>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
