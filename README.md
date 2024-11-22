@@ -41,9 +41,10 @@
 <h4 align="center" style="font-size: 1.5em;">Contact</h4>
 <p align="center">
   <a href="https://www.instagram.com/se0rye0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-    <a href="mailto:se0rye0ng@cau.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=se0rye0ng@cau.ac.kr"/></a>
+    <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a>
 </p>
 <br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&count_bg=%23F5A2A2&title_bg=%23CDC2C2&icon=github.svg&icon_color=F5A2A2&title=hits&edge_flat=false"/></a>
+    <span>Feel free to collaborate with me!</span><br>
 </p>
