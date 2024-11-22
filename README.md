@@ -9,7 +9,6 @@
 </h4>
 <br>
 <br>
-<br>
 <div align="center">
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
