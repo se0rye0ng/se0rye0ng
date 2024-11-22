@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=E3A6AE&text=I'M%20SEORYEONG!&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
-<h4 align="center" style="font-weight: bold;">📚</h4>
+<h4 align="center" style="font-weight: normal;">📚</h4>
 <div align="center">
     <span style="font-weight: bold; color: black;">Major</span>
 </div>
 
-<h4 align="center">
+<h4 align="center" style="font-weight: normal;">
     <span>2022. 03~</span><br>
     <span>Plant Science and Technology,</span><br>
     <span>Chung-Ang University</span>
