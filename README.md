@@ -2,10 +2,10 @@
 
 <h4 align="center" style="font-weight: normal;">📚</h4>
 <div align="center">
-    <span style="font-weight: bold; color: black;">Major</span>
+    <span>Major</span>
 </div>
 
-<h4 align="center" style="font-weight: normal;">
+<h4>
     <span>2022. 03~</span><br>
     <span>Plant Science and Technology,</span><br>
     <span>Chung-Ang University</span>
