@@ -24,7 +24,7 @@
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
     <span>For Frontend Engineer</span><br>
-    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Webpage</a></span>span>
+    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Webpage</a></span>
 </p>
 <br>
 
