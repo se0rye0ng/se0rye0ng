@@ -7,6 +7,7 @@
     <span>Plant Science and Technology</span><br>
     <span>Chung-Ang University, Korea</span></b>
 </p>
+<br>
 <h4 align="center">⚒</h4>
 <h4 align="center" style="font-size: 1.5em;">Tech Stack</h4>
 
@@ -30,6 +31,7 @@
     <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
     <b><span>Always Open for Cooperation!</span></b>
 </p>
+<br>
 <div align="center">    
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
