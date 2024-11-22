@@ -23,11 +23,18 @@
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
-    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span>
+    <b><span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span></b><br>
     <b><span>For Frontend Engineer</span></b><br>
 </p>
 <br>
-
+<h4 align="center">📨</h4>
+<h4 align="center" style="font-size: 1.5em;">Contact</h4>
+<p align="center">
+  <a href="https://www.instagram.com/se0rye0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+    <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
+    <b><span>Always open for Cooperation!</span></b>
+</p>
+<br>
 <div align="center">    
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
@@ -36,14 +43,7 @@
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0rye0ng&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<br>
-<h4 align="center">📨</h4>
-<h4 align="center" style="font-size: 1.5em;">Contact</h4>
-<p align="center">
-  <a href="https://www.instagram.com/se0rye0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-    <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
-    <b><span>Always open for Cooperation!</span></b><
-</p>
+
 <br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&count_bg=%23F5A2A2&title_bg=%23CDC2C2&icon=github.svg&icon_color=F5A2A2&title=hits&edge_flat=false"/></a>
