@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=I%20am%20SE0RYE0NG!&fontSize=80&fontColor=000000)
 
-<!--
+
 **se0rye0ng/se0rye0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
