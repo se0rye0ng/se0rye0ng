@@ -2,10 +2,11 @@
 
 <h4 align="center">🌱</h4>
 <h4 align="center" style="font-size: 1.5em;">Major</h4>
-<p align="center">  
+<p align="center">
+    <b>
     <span>2022. 03 ~</span><br>
     <span>Plant Science and Technology</span><br>
-    <span>Chung-Ang University, Korea</span>
+    <span>Chung-Ang University, Korea</span></b>
 </p>
 <br>
 
@@ -32,7 +33,7 @@
 <p align="center">
   <a href="https://www.instagram.com/se0rye0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
     <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
-    <b><span>Always open for Cooperation!</span></b>
+    <b><span>Always Open for Cooperation!</span></b>
 </p>
 <br>
 <div align="center">    
