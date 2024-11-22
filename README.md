@@ -23,9 +23,8 @@
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
-    <span>Plant Science and Technology</span><br>
-    <span>Chung-Ang University, Korea</span>
-    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">여기를 클릭하세요</a></span>span>
+    <span>For Frontend Engineer</span><br>
+    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Webpage</a></span>span>
 </p>
 <br>
 
