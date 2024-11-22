@@ -4,7 +4,7 @@
 <h4 align="center" style="font-size: 1.5em;">Me</h4>
 <p align="center">
     <b>
-    <span>Learning Plant Science and Technology</span><br>
+    <span>Major of Plant Science and Technology</span><br>
     <span>Deputy head of Technology Department, UBS</span>
     </b>
 </p>
