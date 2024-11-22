@@ -3,7 +3,8 @@
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Major</h4>
 <h4 align="center">
-    <span style="font-weight: bold; color: black;">Plant Science and Technology,</span>
+    <span style="font-weight: bold; color: black;">Major</span><br>
+    <span style="color: black;">Plant Science and Technology,</span>
     <span style="font-weight: 300; color: black;">Chung-Ang University,</span><br>
     <span style="color: gray; font-size: 0.85em;">Korea, 2022. 03~</span>
 </h4>
