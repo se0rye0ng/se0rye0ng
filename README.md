@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h4 align="center">👩‍💻 Github Stats 👩‍💻</h4>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&icon_color=F5A2A2&border_color=F5A2A2&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&icon_color=F5A2A2&ring_color=F5A2A2&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
