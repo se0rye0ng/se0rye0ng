@@ -2,13 +2,13 @@
 
 <h4 align="center" style="font-weight: bold;">📚</h4>
 <div align="center">
-    <span style="font-weight: normal; color: black;">Major</span>
+    <span style="font-weight: bold; color: black;">Major</span>
 </div>
 
 <h4 align="center">
-    <span style="color: gray; font-size: 0.85em;">2022. 03~</span>
-    <span style="color: black;">Plant Science and Technology,</span>
-    <span style="color: black;">Chung-Ang University</span>
+    <span style="color: gray; font-size: 0.85em; font-weight: normal;">2022. 03~</span><br>
+    <span style="color: black; font-weight: normal;">Plant Science and Technology,</span><br>
+    <span style="color: black; font-weight: normal;">Chung-Ang University</span>
 </h4>
 <br>
 <br>
