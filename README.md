@@ -20,6 +20,16 @@
 </p>
 <br>
 
+<h4 align="center">📚</h4>
+<h4 align="center" style="font-size: 1.5em;">Project</h4>
+<p align="center">
+    
+    <span><a href="http://wojaeloversclub.dothome.co.kr/"></a></span>
+    <span>Plant Science and Technology</span><br>
+    <span>Chung-Ang University, Korea</span>
+</p>
+<br>
+
 <div align="center">    
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
