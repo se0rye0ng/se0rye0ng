@@ -6,9 +6,9 @@
 </div>
 
 <h4 align="center">
-    <span style="color: gray; font-size: 0.85em; font-weight: normal;">2022. 03~</span><br>
-    <span style="color: black; font-weight: normal;">Plant Science and Technology,</span><br>
-    <span style="color: black; font-weight: normal;">Chung-Ang University</span>
+    <span>2022. 03~</span><br>
+    <span>Plant Science and Technology,</span><br>
+    <span>Chung-Ang University</span>
 </h4>
 <br>
 <br>
