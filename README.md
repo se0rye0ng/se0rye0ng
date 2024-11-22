@@ -3,6 +3,14 @@
 
 **se0rye0ng/se0rye0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h4 align="center">👩‍💻 About Me 👩‍💻</h4>
+<h4 align="center">
+    <span style="font-weight: bold; color: black;">Plant Science and Technology,</span>
+    <span style="font-weight: 300; color: black;"> Chung-Ang University,</span>
+    <span style="color: gray; font-size: 0.85em;"> Korea, 2022. 03~</span>
+</h4>
+<div align="center">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
