@@ -25,6 +25,7 @@
 <p align="center">
     <span>Plant Science and Technology</span><br>
     <span>Chung-Ang University, Korea</span>
+    <span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">여기를 클릭하세요</a></span>span>
 </p>
 <br>
 
