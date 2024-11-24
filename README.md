@@ -4,7 +4,7 @@
 <h4 align="center" style="font-size: 1.5em;">About Me</h4>
 <p align="center">
     <b>
-    <span>Preparing, Media Engineer!</span>
+    <span>Preparing, Media Engineer!</span><br>
     <span>Plant Science and Technology, CAU</span><br>
     <span>Head of Technology Department, UBS</span>
     </b>
