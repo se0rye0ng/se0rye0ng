@@ -24,7 +24,6 @@
 <p align="center">
     <b><span><a href="http://wojaeloversclub.dothome.co.kr/" target="_blank">Portfolio</a></span></b><br>
     <b><span>2024.06.01 ~ 2024. 06.03</b><br>
-    <b><span>Web Page Development</b><br>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
