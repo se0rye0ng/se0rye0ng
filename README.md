@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=E3A6AE&text=I'M%20SEORYEONG!&fontAlign=50&fontAlignY=44&fontColor=FFFFFF)
 
-<h3 align="center">Preparing to become a Media Engineer!</h3>
 <h4 align="center">🌱</h4>
 <h4 align="center" style="font-size: 1.5em;">About Me</h4>
 <p align="center">
     <b>
     <span>Major of Plant Science and Technology, CAU</span><br>
     <span>Deputy head of Technology Department, UBS</span><br>
+    <span>>Preparing to become a Media Engineer!</span>
     </b>
 </p>
 <h4 align="center">⚒</h4>
