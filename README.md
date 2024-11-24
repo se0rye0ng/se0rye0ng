@@ -4,9 +4,9 @@
 <h4 align="center" style="font-size: 1.5em;">About Me</h4>
 <p align="center">
     <b>
+    <span>Preparing, Media Engineer!</span>
     <span>Plant Science and Technology, CAU</span><br>
-    <span>Head of Technology Department, UBS</span><br>
-    <span>Preparing, Media Engineer</span>
+    <span>Head of Technology Department, UBS</span>
     </b>
 </p>
 <h4 align="center">⚒</h4>
