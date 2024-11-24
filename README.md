@@ -10,7 +10,6 @@
     <span>Deputy head of Technology Department, UBS</span><br>
     </b>
 </p>
-<br>
 <h4 align="center">⚒</h4>
 <h4 align="center" style="font-size: 1.5em;">Tech Stack</h4>
 
@@ -22,8 +21,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
-
-<br>
 <h4 align="center">📚</h4>
 <h4 align="center" style="font-size: 1.5em;">Project</h4>
 <p align="center">
@@ -36,7 +33,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 <h4 align="center">📨</h4>
 <h4 align="center" style="font-size: 1.5em;">Contact</h4>
 <p align="center">
@@ -44,7 +40,6 @@
     <a href="mailto:tjfud021030@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjfud021030@gmail.com"/></a><br>
     <b><span>Always Open for Cooperation!</span></b>
 </p>
-<br>
 <div align="center">    
 <h4 align="center">👩‍💻</h4>
 <h4 align="center" style="font-size: 1.5em;">Github States</h4>
